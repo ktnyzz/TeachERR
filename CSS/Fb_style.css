@@ -377,6 +377,8 @@ footer.page-footer {
 
 div.librarie {
   margin: 20px 0;
+  min-width: 220px;
+  min-height: 100pxpx;
 }
 /* Наши проекты */
 /* Переменные с цветами */
